@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋 It's Wojciech</h1>
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=wsekta&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=wsekta&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 <!--
 **wsekta/wsekta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
